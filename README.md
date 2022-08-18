@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:000000&height=200&text=HAHM%20JUNTAE&animation=fadeIn&fontColor=e5e5e5&fontSize=50&fontAlign=24&fontAlignY=30&desc=Front-End%20Developer&descAlign=15&descAlignY=50" width="1012" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7abb8,50:d9dadf,100:a7abb8&height=200&fontColor=202124&text=HAHM%20JUNTAE&animation=fadeIn&fontColor=black&fontSize=50&fontAlign=24&fontAlignY=30&desc=Front-End%20Developer&descAlign=15&descAlignY=50" width="1012" />
 
 <span>
 <img src="https://user-images.githubusercontent.com/111266117/184874183-c06e39b8-86c4-4409-9dad-73456a257c1f.png" width="260" /><br />
@@ -23,4 +23,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JunTaeHahm" width="350" />
 </span>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:000000&height=200&section=footer" width="1012" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7abb8,50:d9dadf,100:a7abb8&height=200&section=footer" width="1012" />
