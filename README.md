@@ -5,7 +5,7 @@
 <span><br />Hi, there!<br />I'm learning to be a FrontEnd Developer.<br /><br /><span>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNomit-h%2FREADME.md&count_bg=%23191919&title_bg=%23191919&icon=tencentqq.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false"/></a>
 <a href="mailto:jth5287@icloud.com"><img src="https://img.shields.io/badge/MAIL-111111?style=round-square&logo=apple&logoColor=white"/></a> 
-<a href="https://www.instagram.com/nomit_.h/"><img src="https://img.shields.io/badge/Instagram-111111?style=round-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-111111?style=round-square&logo=Instagram&logoColor=white"/></a>
 
 
 ### Technology :headphones:
