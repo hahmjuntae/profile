@@ -4,7 +4,8 @@
 <img src="https://user-images.githubusercontent.com/111266117/184874183-c06e39b8-86c4-4409-9dad-73456a257c1f.png" width="260" /><br />
 <span><br />Hi, there!<br />I'm learning to be a FrontEnd Developer.<br /><br /><span>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNomit-h%2FREADME.md&count_bg=%23191919&title_bg=%23191919&icon=tencentqq.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false"/></a>
-<a href="mailto:jth5287@icloud.com"><img src="https://img.shields.io/badge/MAIL-111111?style=round-square&logo=apple&logoColor=white"/></a> 
+<a href="mailto:jth5287@icloud.com"><img src="https://img.shields.io/badge/MAIL-111111?style=round-square&logo=apple&logoColor=white"/></a>
+<a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-111111?style=round-square&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-111111?style=round-square&logo=Instagram&logoColor=white"/></a>
 
 
