@@ -6,9 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/111362079/192100425-0bf15ada-8c9b-4d73-b993-48e3f966fb59.png" width="300" /><br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FEDE00&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%2C+JunTae%21&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%23FEDE00&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%2C+JunTae%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=👨🏻‍💻%20JUNTAE%20HAHM&animation=fadeIn&fontColor=59A5FF&fontSize=50&fontAlignY=70" height="60" /><br />
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=👨🏻‍💻%20JunTae%20Hahm&animation=fadeIn&fontColor=59A5FF&fontSize=50&fontAlignY=70" height="60" /><br />
 
 <span>
 <a href="mailto:jth5287@icloud.com"><img src="https://img.shields.io/badge/MAIL-e0e0e0?style=round-square&logo=apple&logoColor=black"/></a>
