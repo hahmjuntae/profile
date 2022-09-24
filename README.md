@@ -2,7 +2,8 @@
 
 
 <span>
-<img src="https://user-images.githubusercontent.com/111266117/184874183-c06e39b8-86c4-4409-9dad-73456a257c1f.png" width="260" /><br />
+
+<img src="https://user-images.githubusercontent.com/111362079/192100425-0bf15ada-8c9b-4d73-b993-48e3f966fb59.png" width="300" /><br />
 
 ### 👨🏻‍💻 JunTae Hahm
 <a href="mailto:jth5287@icloud.com"><img src="https://img.shields.io/badge/MAIL-e0e0e0?style=round-square&logo=apple&logoColor=black"/></a>
@@ -13,7 +14,8 @@
 ### 📍 Stack & Tool
 <img src="https://img.shields.io/badge/HTML5-f6f6f6?style=round-square&logo=HTML5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-f6f6f6?style=round-square&logo=CSS3&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-f6f6f6?style=round-square&logo=JavaScript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/JavaScript-f6f6f6?style=round-square&logo=JavaScript&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/React-f6f6f6?style=round-square&logo=react&logoColor=black"/>
 <br />
 <img src="https://img.shields.io/badge/VS Code-212121?style=round-square&logo=Visual Studio Code&logoColor=white"/>
@@ -25,4 +27,4 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://github.com/JunTaeHahm/velog-readme-stats)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7abb8,50:d9dadf,100:a7abb8&height=200&fontColor=202124&text=HAHM%20JUNTAE&animation=fadeIn&fontColor=black&fontSize=50&fontAlign=24&fontAlignY=70&desc=Front-End%20Developer&descAlign=15&descAlignY=85&section=footer" width="1012" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3e5fc,50:f8bbd0,100:a7abb8&height=200&fontColor=202124&text=HAHM%20JUNTAE&animation=blinking&fontColor=black&fontSize=40&fontAlign=20.5&fontAlignY=70&desc=Front-End%20Developer&descAlign=15&descAlignY=85&section=footer" width="1012" />
