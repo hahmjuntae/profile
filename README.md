@@ -24,7 +24,7 @@
 
 
 ### 📍 Velog's Recent Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://github.com/JunTaeHahm/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://github.com/eungyeole/velog-readme-stats)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3e5fc,50:f8bbd0,100:a7abb8&height=200&fontColor=202124&text=HAHM%20JUNTAE&animation=blinking&fontColor=black&fontSize=40&fontAlign=20.5&fontAlignY=70&desc=Front-End%20Developer&descAlign=15&descAlignY=85&section=footer" width="1012" />
