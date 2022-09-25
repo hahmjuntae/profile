@@ -17,7 +17,7 @@
 <a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-e0e0e0?style=for-the-badge&logo=Velog&logoColor=black"/></a>
 <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-e0e0e0?style=for-the-badge&logo=Instagram&logoColor=black"/></a><br />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Stack%20n%20Tool%20🛠&fontColor=FF9A00&fontSize=50&fontAlignY=70" height="60" /><br />
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Stack%20/%20Tool%20🛠&fontColor=FF9A00&fontSize=50&fontAlignY=70" height="60" /><br />
 
 <img src="https://img.shields.io/badge/HTML5-e0e0e0?style=for-the-badge&logo=HTML5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-f6f6f6?style=for-the-badge&logo=CSS3&logoColor=black"/>
