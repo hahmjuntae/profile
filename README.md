@@ -30,6 +30,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📝%20Recent%20Post&fontColor=59A5FF&fontSize=50&fontAlignY=70" height="60" /><br />
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae&color=dark)](https://velog.io/@ahuuae)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://velog.io/@ahuuae)
 
 </div>
