@@ -1,5 +1,5 @@
 <div align="center">
-
+</div>
 ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/111362079/192101575-4d8d1bde-1008-447b-ac33-4e4b416b4b7a.png" width="320"  /><br />
@@ -31,4 +31,4 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📝%20Recent%20Post&fontColor=59A5FF&fontSize=50&fontAlignY=70" height="60" /><br />
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae&color=dark)](https://velog.io/@ahuuae)
-</div>
+
