@@ -4,7 +4,7 @@
   
 <img src="https://user-images.githubusercontent.com/111362079/195310258-4f27e7ee-7622-407c-984a-dbb58221a882.png" width="500" /><br />
 
-<img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" /><br />
+<img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" /><br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%23FEDE00&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%2C+JunTae%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
