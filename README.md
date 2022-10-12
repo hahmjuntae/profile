@@ -1,15 +1,15 @@
 <div align="center">
 
 ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://user-images.githubusercontent.com/111362079/192101575-4d8d1bde-1008-447b-ac33-4e4b416b4b7a.png" width="320"  /><br />
-
-<img src="https://user-images.githubusercontent.com/111362079/192100425-0bf15ada-8c9b-4d73-b993-48e3f966fb59.png" width="300" /><br />
+  
+<img src="https://i.pinimg.com/originals/f8/51/6b/f8516b9c0ee5497018254b2750042240.gif" width="500" /><br />
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%23FEDE00&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%2C+JunTae%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=JunTae%20Hahm%20👨🏻‍💻&fontColor=FF9A00&fontSize=50&fontAlignY=70" height="60" /><br />
+  
+
 
 <span>
 <a href="mailto:jth5287@icloud.com"><img src="https://img.shields.io/badge/Mail-e0e0e0?style=for-the-badge&logo=apple&logoColor=black">
