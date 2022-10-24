@@ -1,8 +1,9 @@
 <div align="center">
 
 ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
-  
-<img src="https://user-images.githubusercontent.com/111362079/195310258-4f27e7ee-7622-407c-984a-dbb58221a882.png" width="500" /><br />
+
+<img src="https://user-images.githubusercontent.com/111362079/197444534-4f481872-fde7-449e-9591-ee77d1631cec.png" width="500" /><br />
+
 
 <img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" width="500"/><br />
 
