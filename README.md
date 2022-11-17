@@ -14,7 +14,7 @@
 
 
 <span>
-<a href="mailto:jth5287@icloud.com"><img src="https://img.shields.io/badge/Mail-e0e0e0?style=for-the-badge&logo=apple&logoColor=black">
+<a href="mailto:jth5287@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/Mail-e0e0e0?style=for-the-badge&logo=apple&logoColor=black">
 </a>
 <a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-e0e0e0?style=for-the-badge&logo=Velog&logoColor=black"/></a>
 <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-e0e0e0?style=for-the-badge&logo=Instagram&logoColor=black"/></a><br />
