@@ -12,10 +12,10 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Channel::&fontColor=ff522f&fontSize=55&fontAlignY=70" height="60" /><br />
 
 <span>
-<a href="mailto:jth5287@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/Mail-f4e7d4?style=for-the-badge&logo=apple&logoColor=black">
+<a href="mailto:jth5287@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/Mail-ffffff?style=for-the-badge&logo=apple&logoColor=black">
 </a>
-<a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-f4e7d4?style=for-the-badge&logo=Velog&logoColor=black"/></a>
-<a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-f4e7d4?style=for-the-badge&logo=Instagram&logoColor=black"/></a><br />
+<a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-ffffff?style=for-the-badge&logo=Velog&logoColor=black"/></a>
+<a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=black"/></a><br />
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Skill::&fontColor=ff522f&fontSize=55&fontAlignY=70" height="60" /><br />
 
