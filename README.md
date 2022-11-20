@@ -18,15 +18,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Skill&fontColor=ff522f&fontSize=45&fontAlignY=70" height="50" /><br />
 
-<img src="https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-212121?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-212121?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"/>
-  <img src="https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"/>
+  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <br />
-<img src="https://img.shields.io/badge/Visual Studio Code-212121?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-212121?style=for-the-badge&logo=Figma&logoColor=F24E1E"/><br />
+<img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=F24E1E"/><br />
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Post&fontColor=ff522f&fontSize=45&fontAlignY=70" height="50" /><br />
 
