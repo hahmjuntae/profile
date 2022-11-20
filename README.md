@@ -1,17 +1,22 @@
 <div align="center">
-
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%230C1117&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
   
 <hr />
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%230C1117&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=6ca4fb&fontSize=220&fontAlignY=60" height="40" width="120" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop.&fontColor=6ca4fb&fontSize=220&fontAlignY=60" height="40" width="120" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=fff&fontSize=220&fontAlignY=60" height="40" width="120" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=System.&fontColor=ff522f&fontSize=220&fontAlignY=60" height="40" width="120" />
+        <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=fff&fontSize=220&fontAlignY=60" height="40" width="120" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Life.&fontColor=ff522f&fontSize=450&fontAlignY=70" height="40" width="60" />
+        <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=fff&fontSize=220&fontAlignY=60" height="40" width="120" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Myself.&fontColor=ff522f&fontSize=270&fontAlign=50&fontAlignY=70" height="40" width="90" />
 
   </div>
-  
+  <br />
 
   <img src="https://i.pinimg.com/originals/48/89/0c/48890c0cba7202893720081996ccbc1f.gif" width="400"/>
   <img src="https://i.pinimg.com/originals/48/7e/8e/487e8eeecedf506903840cc00f91e428.gif" width="400"/>
