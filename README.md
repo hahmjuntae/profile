@@ -5,11 +5,11 @@
 ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
   
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=fff&fontSize=220&fontAlignY=60" height="40" width="120" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
     <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=System.&fontColor=ff522f&fontSize=220&fontAlignY=60" height="40" width="120" />
-        <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=fff&fontSize=220&fontAlignY=60" height="40" width="120" />
+        <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
     <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Life.&fontColor=ff522f&fontSize=450&fontAlignY=70" height="40" width="60" />
-        <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=fff&fontSize=220&fontAlignY=60" height="40" width="120" />
+        <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
     <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Myself.&fontColor=ff522f&fontSize=270&fontAlign=50&fontAlignY=70" height="40" width="90" />
   </div>
   <br />
