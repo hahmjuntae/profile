@@ -4,8 +4,8 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%230C1117&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <img src="https://i.pinimg.com/originals/48/89/0c/48890c0cba7202893720081996ccbc1f.gif" width="500"/>
-  <img src="https://i.pinimg.com/originals/48/7e/8e/487e8eeecedf506903840cc00f91e428.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/48/89/0c/48890c0cba7202893720081996ccbc1f.gif" width="450"/>
+  <img src="https://i.pinimg.com/originals/48/7e/8e/487e8eeecedf506903840cc00f91e428.gif" width="450"/>
 </div>
 
 <div align="center">
