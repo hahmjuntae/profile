@@ -44,7 +44,7 @@
   </div>
     
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=POST&fontColor=e8896b&fontSize=100&fontAlignY=100&fontAlign=50" height="70" width="200" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=POST&fontColor=59c251&fontSize=100&fontAlignY=100&fontAlign=50" height="70" width="200" />
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae&color=white)](https://velog.io/@ahuuae)
     
