@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <br />
 <img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black"/>
 <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=F24E1E"/><br />
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Post&fontColor=59c251&fontSize=45&fontAlignY=70" height="50" /><br />
