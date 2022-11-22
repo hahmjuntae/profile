@@ -31,8 +31,6 @@
     <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
     <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
     <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
-    <img src="https://img.shields.io/badge/Styled%20components-ffffff?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/>
     <br/>
     
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&fontColor=6ca4fb&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
@@ -40,7 +38,12 @@
     <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
     <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=Next.js&logoColor=000000"/>
     <br/>
-
+    
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&fontColor=6ca4fb&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
+    <img src="https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
+    <img src="https://img.shields.io/badge/Styled%20components-ffffff?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/>
+    <br/>
+    
    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Software&fontColor=ff522f&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
     <img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black"/>
