@@ -24,7 +24,7 @@
     <a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-ffffff?style=for-the-badge&logo=Velog&logoColor=black"/></a>
     <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=black"/>
   </div>
-    <br/>
+  <br/>
 
   <div align="left">
    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech%20Stack&fontColor=ff522f&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
@@ -41,7 +41,7 @@
     
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&fontColor=6ca4fb&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
     <img src="https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
-    <img src="https://img.shields.io/badge/Styled%20components-ffffff?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/>
+    <img src="https://img.shields.io/badge/Styled%20components-ffffff?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/><br/>
     <br/>
     
    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Software&fontColor=ff522f&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black"/>
     <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
   </div>
-
+    
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=POST&fontColor=59c251&fontSize=100&fontAlignY=100&fontAlign=50" height="70" width="200" />
     
