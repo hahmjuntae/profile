@@ -27,7 +27,7 @@
     <br/>
 
   <div align="left">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Languae&fontColor=ff522f&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech%20Stack&fontColor=ff522f&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
     <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
     <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
     <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
