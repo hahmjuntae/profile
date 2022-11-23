@@ -35,6 +35,7 @@
     
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&fontColor=6ca4fb&fontSize=60&fontAlignY=80&fontAlign=78" height="50" width="280" />
     <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC"/>
     <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
     <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=Next.js&logoColor=000000"/>
     <br/>
