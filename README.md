@@ -13,6 +13,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Myself.&fontColor=ff522f&fontSize=270&fontAlign=50&fontAlignY=70" height="40" width="90" />
   </div>
   <br />
+  
   <img src="https://i.pinimg.com/originals/48/89/0c/48890c0cba7202893720081996ccbc1f.gif" width="400"/>
   <img src="https://i.pinimg.com/originals/48/7e/8e/487e8eeecedf506903840cc00f91e428.gif" width="400"/>
   
@@ -53,7 +54,9 @@
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae&color=white)](https://velog.io/@ahuuae)
     
+    
   </div>
+  
 </div>
     
   
