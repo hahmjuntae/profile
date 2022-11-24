@@ -20,12 +20,12 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Ch.&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Contact&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
   <a href="mailto:jth5287@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/Mail-ffffff?style=for-the-badge&logo=apple&logoColor=black"></a>
   <a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-ffffff?style=for-the-badge&logo=Velog&logoColor=black"/></a>
   <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=black"/>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech%20Stack&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/><br/>
