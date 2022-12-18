@@ -25,33 +25,30 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Contact.&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Contact&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
   <a href="mailto:jth5287@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/Mail-ffffff?style=for-the-badge&logo=apple&logoColor=black"></a>
   <a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-ffffff?style=for-the-badge&logo=Velog&logoColor=black"/></a>
   <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=black"/>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech%20Stack.&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech%20Stack&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/><br/>
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000"/> 
+  <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC"/><br/>
+    
   <img src="https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Styled%20components-ffffff?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/><br/>
+  <img src="https://img.shields.io/badge/Styled%20components-ffffff?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=FFCA28"><br/>
   
     
-   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Software.&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Software&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
    <img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
    <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=Git&logoColor=F05032"/>
    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black"/>
    <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
-  </div>
-    
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Velog.&fontColor=59c251&fontSize=40&fontAlignY=70" height="80" /><br />
-    
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae&color=white)](https://velog.io/@ahuuae)
-    
-    
   </div>
   
 </div>
