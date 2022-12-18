@@ -30,25 +30,26 @@
   <a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-ffffff?style=for-the-badge&logo=Velog&logoColor=black"/></a>
   <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=black"/>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech%20Stack&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/><br/>
-  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000"/> 
-  <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC"/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Tech%20Stacks&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+  <img src="https://img.shields.io/badge/HTML5-e0e0e0?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-e0e0e0?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-e0e0e0?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/><br/>
     
-  <img src="https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Styled%20components-ffffff?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=FFCA28"><br/>
+  <img src="https://img.shields.io/badge/TypeScript-e0e0e0?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-e0e0e0?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-e0e0e0?style=for-the-badge&logo=next.js&logoColor=000000"/> 
+  <img src="https://img.shields.io/badge/Redux-e0e0e0?style=for-the-badge&logo=redux&logoColor=764ABC"/><br/>
+    
+  <img src="https://img.shields.io/badge/SASS-e0e0e0?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Styled%20components-e0e0e0?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/firebase-e0e0e0?style=for-the-badge&logo=firebase&logoColor=FFCA28"><br/>
   
     
-   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Software&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
-   <img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
-   <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=Git&logoColor=F05032"/>
-   <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
+   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Others&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+   <img src="https://img.shields.io/badge/Visual Studio Code-e0e0e0?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
+   <img src="https://img.shields.io/badge/Git-e0e0e0?style=for-the-badge&logo=Git&logoColor=F05032"/>
+   <img src="https://img.shields.io/badge/GitHub-e0e0e0?style=for-the-badge&logo=GitHub&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Figma-e0e0e0?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
   </div>
   
 </div>
