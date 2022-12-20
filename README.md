@@ -36,9 +36,7 @@
   <img src="https://img.shields.io/badge/JavaScript-e0e0e0?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/><br/>
     
   <img src="https://img.shields.io/badge/TypeScript-e0e0e0?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-e0e0e0?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-e0e0e0?style=for-the-badge&logo=next.js&logoColor=000000"/> 
-  <img src="https://img.shields.io/badge/Redux-e0e0e0?style=for-the-badge&logo=redux&logoColor=764ABC"/><br/>
+  <img src="https://img.shields.io/badge/React-e0e0e0?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
     
   <img src="https://img.shields.io/badge/SASS-e0e0e0?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
   <img src="https://img.shields.io/badge/Styled%20components-e0e0e0?style=for-the-badge&logo=Styledcomponents&logoColor=CC6699"/>
