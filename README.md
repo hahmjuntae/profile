@@ -3,6 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%230C1117&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
+
+  <img src="https://i.pinimg.com/originals/48/89/0c/48890c0cba7202893720081996ccbc1f.gif" width="400"/><br/>
   
   <div>
     <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
@@ -15,9 +17,9 @@
   <br />
 
   
-  <img src="https://i.pinimg.com/originals/48/89/0c/48890c0cba7202893720081996ccbc1f.gif" width="400"/><br/>
+
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:fcc5e4,15:fda34b,35:ff7882,52:c8699e,71:7046aa,87:0c1db8,100:020f75&section=header" width="400" />
+  
 </div>
 
 
@@ -25,12 +27,12 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📞Contact&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📞%20Contact&fontColor=3498db&fontSize=40&fontAlignY=70" height="80" /><br />
   <a href="mailto:jth5287@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/Mail-ffffff?style=for-the-badge&logo=apple&logoColor=black"></a>
   <a href="https://velog.io/@ahuuae"><img src="https://img.shields.io/badge/Velog-ffffff?style=for-the-badge&logo=Velog&logoColor=black"/></a>
   <a href="https://hahm.notion.site/80bf3e445667489f8634595cc71d8af4"><img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=Notion&logoColor=black"/>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=🛠️Skill&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=🛠️%20Skill&fontColor=3498db&fontSize=40&fontAlignY=70" height="80" /><br />
   <img src="https://img.shields.io/badge/HTML5-e0e0e0?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-e0e0e0?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/JavaScript-e0e0e0?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/><br/>
@@ -43,18 +45,21 @@
   <img src="https://img.shields.io/badge/firebase-e0e0e0?style=for-the-badge&logo=firebase&logoColor=FFCA28"><br/>
   
     
-   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=💻Tool&fontColor=ff522f&fontSize=40&fontAlignY=70" height="80" /><br />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=💻%20Tool&fontColor=3498db&fontSize=40&fontAlignY=70" height="80" /><br />
    <img src="https://img.shields.io/badge/Visual Studio Code-e0e0e0?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
    <img src="https://img.shields.io/badge/Git-e0e0e0?style=for-the-badge&logo=Git&logoColor=F05032"/>
    <img src="https://img.shields.io/badge/GitHub-e0e0e0?style=for-the-badge&logo=GitHub&logoColor=black"/>
    <img src="https://img.shields.io/badge/Figma-e0e0e0?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
 
   
-   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📝Posts&fontColor=27ae60&fontSize=40&fontAlignY=70" height="80" /><br />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📝%20Posts&fontColor=27ae60&fontSize=40&fontAlignY=70" height="80" /><br />
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://github.com/ahuuae/velog-readme-stats)
 
   </div>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:fcc5e4,15:fda34b,35:ff7882,52:c8699e,71:7046aa,87:0c1db8,100:020f75&section=footer" width="2000"/>
+  
 </div>
     
   
