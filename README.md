@@ -57,7 +57,8 @@
   <!-- Velog -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📝%20Posts&fontColor=27ae60&fontSize=40&fontAlignY=70" height="80" /><br />
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](ttps://velog.io/@ahuuae)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://velog.io/@ahuuae)
+    
 </div>
   
   <!-- Footer -->
