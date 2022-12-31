@@ -56,8 +56,8 @@
   
    <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📝%20Posts&fontColor=27ae60&fontSize=40&fontAlignY=70" height="80" /><br />
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://github.com/ahuuae/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](ttps://velog.io/@ahuuae)
+    
   </div>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:fcc5e4,15:fda34b,35:ff7882,52:c8699e,71:7046aa,87:0c1db8,100:020f75&section=footer" width="2000"/>
