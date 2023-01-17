@@ -11,10 +11,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:fcc5e4,15:fda34b,35:ff7882,52:c8699e,71:7046aa,87:0c1db8,100:020f75&section=header" width="2000"/>
 
-<!-- Image -->
-<img src="https://user-images.githubusercontent.com/111362079/210147151-ea9d28db-eade-450e-a3e0-cd7225ad4d66.gif" width="400"/>
-<img src="https://user-images.githubusercontent.com/111362079/210146986-4d324784-d3bc-4272-81ad-f441ca2bd02f.gif" width="400"/><br/>
-
   <!-- Catchprase -->
   <div>
     <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
