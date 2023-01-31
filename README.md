@@ -1,15 +1,9 @@
 <div align="center">
-
-<!-- Hits -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%230C1117&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <!-- 잔디먹는 뱀 -->
 
 ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:fcc5e4,15:fda34b,35:ff7882,52:c8699e,71:7046aa,87:0c1db8,100:020f75&section=header" width="2000"/>
 
   <!-- Catchprase -->
   <div>
@@ -58,16 +52,9 @@
   <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
 
-  <!-- Velog -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=📝%20Posts&fontColor=27ae60&fontSize=40&fontAlignY=70" height="80" /><br />
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahuuae)](https://velog.io/@ahuuae)
     
 </div>
-  
-  <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:fcc5e4,15:fda34b,35:ff7882,52:c8699e,71:7046aa,87:0c1db8,100:020f75&section=footer" width="2000"/>
-  
+
 </div>
     
   
