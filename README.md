@@ -3,7 +3,9 @@
 <!-- 3D 프로필 -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JunTaeHahm&theme=github-dark-blue&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
 <!-- 잔디먹는 뱀 -->
 
 <!-- ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg) -->
