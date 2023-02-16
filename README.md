@@ -2,7 +2,7 @@
 
 <!-- 3D 프로필 -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
   
 <!-- 잔디먹는 뱀 -->
 
