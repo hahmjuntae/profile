@@ -14,7 +14,7 @@
 
 <!-- 3D 프로필 -->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+profile-night-green.svg
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=JunTaeHahm&theme=soft-green&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
