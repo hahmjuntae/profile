@@ -1,8 +1,12 @@
 <div align="center">
+
+<!-- 3D 프로필 -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
   
 <!-- 잔디먹는 뱀 -->
 
-![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/JunTaeHahm/JunTaeHahm/blob/output/github-contribution-grid-snake.svg) -->
 
 
   <!-- Catchprase -->
