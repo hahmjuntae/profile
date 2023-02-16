@@ -14,10 +14,10 @@
 
 <!-- 3D 프로필 -->
   
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=JunTaeHahm&theme=slateorange&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JunTaeHahm&theme=graywhite&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
 <!-- 잔디먹는 뱀 -->
 
