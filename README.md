@@ -1,15 +1,7 @@
 <div align="center">
 
-<!-- Catchprase -->
-<div>
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=System.&fontColor=ff522f&fontSize=220&fontAlignY=60" height="40" width="120" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Life.&fontColor=ff522f&fontSize=450&fontAlignY=70" height="40" width="60" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Myself.&fontColor=ff522f&fontSize=270&fontAlign=50&fontAlignY=70" height="40" width="90" />
-</div> 
-
+<a href="https://www.sentenceu.co.kr"><img src="https://velog.velcdn.com/images/ahuuae/post/0b9aa86d-ba08-4b16-a090-511144100945/image.png" width="500" /></a>
+  
 <!-- 3D 프로필 -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
   
@@ -30,8 +22,17 @@
 <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black"/>
 </div>
 
+  <!-- Catchprase -->
+<div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=System.&fontColor=ff522f&fontSize=220&fontAlignY=60" height="40" width="120" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Life.&fontColor=ff522f&fontSize=450&fontAlignY=70" height="40" width="60" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Myself.&fontColor=ff522f&fontSize=270&fontAlign=50&fontAlignY=70" height="40" width="90" />
+</div> 
+
 </div>
     
   
-
 
