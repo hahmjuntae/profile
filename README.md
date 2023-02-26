@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.sentenceu.co.kr"><img src="https://velog.velcdn.com/images/ahuuae/post/0b9aa86d-ba08-4b16-a090-511144100945/image.png" width="500" /></a>
+<a href="https://www.sentenceu.co.kr"><img src="https://velog.velcdn.com/images/ahuuae/post/0b9aa86d-ba08-4b16-a090-511144100945/image.png" width="400" /></a>
   
 <!-- 3D 프로필 -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
