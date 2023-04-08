@@ -16,7 +16,7 @@
 <!-- Profile -->
 <div align="center">
 <!-- <a href="https://hahm.notion.site/80bf3e445667489f8634595cc71d8af4"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=Notion&logoColor=black"/> -->
-<a href="mailto:jth5287@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/MAIL-ffffff?style=for-the-badge&logo=apple&logoColor=black"></a>
+<a href="mailto:ahuuae@icloud.com,ahuuae_@kakao.com,jth5287@naver.com"><img src="https://img.shields.io/badge/MAIL-ffffff?style=for-the-badge&logo=apple&logoColor=black"></a>
 <a href="https://kyledev.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-ffffff?style=for-the-badge&logo=Tistory&logoColor=black"/></a>
 <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black"/>
 </div>
