@@ -1,15 +1,17 @@
 <div align="center">
 
-<!-- <a href="https://www.sentenceu.co.kr"><img src="https://velog.velcdn.com/images/ahuuae/post/0b9aa86d-ba08-4b16-a090-511144100945/image.png" width="400" /></a>
-   -->
+<!-- 잔디먹는 뱀 -->
+![snake gif](https://github.com/hahmjuntae/hahmjuntae/blob/output/github-contribution-grid-snake.svg)
+
+
 <!-- 3D 프로필 -->
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
   
 <!-- Hits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FJunTaeHahm&count_bg=%23222222&title_bg=%23222222&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FJunTaeHahm&count_bg=%23222222&title_bg=%23222222&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!-- Github Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=JunTaeHahm&theme=graywhite&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=JunTaeHahm&theme=graywhite&border_radius=10&mode=weekly)](https://git.io/streak-stats) -->
 
 
   
@@ -30,6 +32,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Develop&fontColor=e0e0e0&fontSize=220&fontAlignY=60" height="40" width="120" />
 <img src="https://capsule-render.vercel.app/api?type=transparent&section=footer&text=Myself.&fontColor=ff522f&fontSize=270&fontAlign=50&fontAlignY=70" height="40" width="90" />
 </div> -->
+
 
 </div>
     
