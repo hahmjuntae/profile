@@ -3,6 +3,7 @@
 <!-- 잔디먹는 뱀 -->
 ![snake gif](https://github.com/hahmjuntae/hahmjuntae/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
 <!-- 3D 프로필 -->
 <!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
@@ -16,12 +17,12 @@
 
   
 <!-- Profile -->
-<div align="center">
+<!-- <div align="center"> -->
 <!-- <a href="https://hahm.notion.site/80bf3e445667489f8634595cc71d8af4"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=Notion&logoColor=black"/> -->
-<a href="mailto:hahmjuntae@icloud.com,ahuuae_@kakao.com,hahmjuntae@naver.com"><img src="https://img.shields.io/badge/MAIL-ffffff?style=for-the-badge&logo=apple&logoColor=black"></a>
-<a href="https://kyledev.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-ffffff?style=for-the-badge&logo=Tistory&logoColor=black"/></a>
-<a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black"/>
-</div>
+<!-- <a href="mailto:hahmjuntae@icloud.com,ahuuae_@kakao.com,hahmjuntae@naver.com"><img src="https://img.shields.io/badge/MAIL-ffffff?style=for-the-badge&logo=apple&logoColor=black"></a> -->
+<!-- <a href="https://kyledev.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-ffffff?style=for-the-badge&logo=Tistory&logoColor=black"/></a> -->
+<!-- <a href="https://www.instagram.com/ahuuae/"><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black"/> -->
+<!-- </div>  -->
 
   <!-- Catchprase -->
 <!-- <div>
@@ -34,7 +35,7 @@
 </div> -->
 
 
-</div>
+
     
   
 
